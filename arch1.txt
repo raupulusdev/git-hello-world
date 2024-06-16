@@ -4,11 +4,20 @@ Esto es un texto de prueba
 
 No modifico esta línea nunca
 
+<<<<<<< HEAD
 Esta línea cambiará, la cambio desde main
+=======
+Esta línea cambiará, esta línea ha cambiado
+>>>>>>> refactor
 
 Tampoco modifico esta línea
 
 Añade algo debajo:
 
+<<<<<<< HEAD
 - algo 1
 - algo 2
+=======
+- Añadido 1
+- Añadido 2
+>>>>>>> refactor
