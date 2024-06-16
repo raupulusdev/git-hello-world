@@ -4,8 +4,11 @@ Esto es un texto de prueba
 
 No modifico esta línea nunca
 
-Esta línea cambiará
+Esta línea cambiará, esta línea ha cambiado
 
 Tampoco modifico esta línea
 
 Añade algo debajo:
+
+- Añadido 1
+- Añadido 2
