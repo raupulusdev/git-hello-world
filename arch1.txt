@@ -4,11 +4,11 @@ Esto es un texto de prueba
 
 No modifico esta línea nunca
 
-Esta línea cambiará, ha cambiado de nuevo en main
+Esta línea cambiará, ha cambiado de nuevo
 
 Tampoco modifico esta línea
 
 Añade algo debajo:
 
-- Añadido 5
-- Añadido 6
+- Añadido 1
+- Añadido 2
